@@ -12,11 +12,14 @@ A series of online courses offered by Dr. Andrew Ng  and deeplearning.ai.
 ### 3.Structuring Machine Learning Projects (not started it yet)
 ### 4.Convolutional Neural Networks (ongoing)
 * Week 1
-       *   [Convolutional Model: step by step]
+       *   [Convolutional Model: step by step](https://github.com/saigontrade88/Coursera_Deep_Learning/tree/master/Course4_CNN/Wk1)
 * Week 2
-       *   [Residual Networks]
+       *   [Residual Networks](https://github.com/saigontrade88/Coursera_Deep_Learning/tree/master/Course4_CNN/Programming/Wk2)
 * Week 3
        *
 * Week 4
        *
 ### 5.Sequence Models (not started it yet)
+
+###Author
+Long Dang/ [@saigontrade88](https://github.com/saigontrade88)
