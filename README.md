@@ -21,5 +21,5 @@ A series of online courses offered by Dr. Andrew Ng  and deeplearning.ai.
        *
 ### 5.Sequence Models (not started it yet)
 
-###Author
+### Author
 Long Dang/ [@saigontrade88](https://github.com/saigontrade88)
